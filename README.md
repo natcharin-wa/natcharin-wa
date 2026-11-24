@@ -6,8 +6,6 @@
 
 Kasetsart University · Kamphaeng Saen Campus
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=12,20,24&height=120&section=header&text=Welcome%20to%20my%20profile!&fontSize=25&fontColor=ffffff" width="100%" />
-
 </div>
 
 ---
